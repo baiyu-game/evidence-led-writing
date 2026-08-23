@@ -1,0 +1,4 @@
+interface:
+  display_name: "证据主导写作"
+  short_description: "隔离废弃分支并围绕证据形成清晰、直接、有说服力的最终文本"
+  default_prompt: "Use $evidence-led-writing to audit and revise this draft into a claim-first, evidence-bound final text."
